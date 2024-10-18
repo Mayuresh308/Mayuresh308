@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-eight-sigma-33.vercel.app/](https://react-portfolio-eight-sigma-33.vercel.app/)
 
-- 💬 Ask me about **MERN Web Development AI/ML**
+- 💬 Ask me about **MERN Web Development & AI/ML**
 
 - 📫 How to reach me **mayureshmayuresh56@gmail.com**
 
